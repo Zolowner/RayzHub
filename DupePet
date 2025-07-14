@@ -1,1 +1,171 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _JsheypbntwV_ = a; end)); return(function(f,...)local o;local _;local d;local p;local r;local l;local e=24915;local n=0;local t={};while n<380 do n=n+1;while n<0x3ac and e%0x860<0x430 do n=n+1 e=(e*218)%6819 local k=n+e if(e%0x2c52)>=0x1629 then e=(e-0x34d)%0x94e5 while n<0x344 and e%0x3c5a<0x1e2d do n=n+1 e=(e-567)%48124 local p=n+e if(e%0x86c)<0x436 then e=(e+0x367)%0x3a24 local e=46932 if not t[e]then t[e]=0x1 o=getfenv and getfenv();end elseif e%2~=0 then e=(e-0x3d7)%0xbf24 local e=15924 if not t[e]then t[e]=0x1 d=function(t)local e=0x01 local function n(n)e=e+n return t:sub(e-n,e-0x01)end while true do local t=n(0x01)if(t=="\5")then break end local e=l.byte(n(0x01))local e=n(e)if t=="\2"then e=r.EEBriSTH(e)elseif t=="\3"then e=e~="\0"elseif t=="\6"then o[e]=function(n,e)return f(8,nil,f,e,n)end elseif t=="\4"then e=o[e]elseif t=="\0"then e=o[e][n(l.byte(n(0x01)))];end local n=n(0x08)r[n]=e end end end else e=(e+0x3a9)%0xc305 n=n+1 local e=52028 if not t[e]then t[e]=0x1 o=(not o)and _ENV or o;end end end elseif e%2~=0 then e=(e-0x93)%0x2db while n<0x157 and e%0x3330<0x1998 do n=n+1 e=(e-606)%24471 local o=n+e if(e%0x4862)<0x2431 then e=(e-0x11d)%0x5cad local e=38220 if not t[e]then t[e]=0x1 r={};end elseif e%2~=0 then e=(e*0x235)%0x2bca local e=36387 if not t[e]then t[e]=0x1 end else e=(e-0x27d)%0x64c4 n=n+1 local e=22425 if not t[e]then t[e]=0x1 end end end else e=(e+0x16b)%0x58c1 n=n+1 while n<0x3b5 and e%0x2bf8<0x15fc do n=n+1 e=(e-308)%40645 local o=n+e if(e%0x4164)>0x20b2 then e=(e-0x22e)%0x5a67 local e=29874 if not t[e]then t[e]=0x1 _=tonumber;end elseif e%2~=0 then e=(e*0xdb)%0xab59 local e=63367 if not t[e]then t[e]=0x1 l=string;end else e=(e*0xf9)%0x28b7 n=n+1 local e=27741 if not t[e]then t[e]=0x1 p="\4\8\116\111\110\117\109\98\101\114\69\69\66\114\105\83\84\72\0\6\115\116\114\105\110\103\4\99\104\97\114\113\97\85\77\82\118\85\110\0\6\115\116\114\105\110\103\3\115\117\98\100\85\89\84\105\102\109\89\0\6\115\116\114\105\110\103\4\98\121\116\101\100\110\103\97\81\120\81\95\0\5\116\97\98\108\101\6\99\111\110\99\97\116\68\105\106\90\119\120\76\89\0\5\116\97\98\108\101\6\105\110\115\101\114\116\119\108\67\86\97\122\80\71\5";end end end end end e=(e*493)%47336 end d(p);local n={};for e=0x0,0xff do local t=r.qaUMRvUn(e);n[e]=t;n[t]=e;end local function k(e)return n[e];end local l=(function(p,l)local f,t=0x01,0x10 local n={{},{},{}}local o=-0x01 local e=0x01 local d=p while true do n[0x03][r.dUYTifmY(l,e,(function()e=f+e return e-0x01 end)())]=(function()o=o+0x01 return o end)()if o==(0x0f)then o=""t=0x000 break end end local o=#l while e<o+0x01 do n[0x02][t]=r.dUYTifmY(l,e,(function()e=f+e return e-0x01 end)())t=t+0x01 if t%0x02==0x00 then t=0x00 r.wlCVazPG(n[0x01],(k((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+d)%0x100)));d=p+d;end end return r.DijZwxLY(n[0x01])end);d(l(87,"LehJY?<#gkUb,Ru-Uu"));d(l(169,"_by:.5IC>uT9D+!X5C9.C>+Gy5C:DXbXb:DT:y>b+9:.u:+5bCCy9Xb5>9C!+Iu>!y:CuuX-bXu+(n.yT.!+:.9.u.!X9bgT5>9.bb5Xu>!ICbuD!DC>u>TD}uD+y5CTD>y.C.Iuy>C:++y:CX9p:!C99Ib+IyD!::yI>b.b>DXI.b:5X:.yuTx.5:Tb++IN9nG>y!9y!:XI55b:5DDybyIbDC49C59ubbCyDyb:I5TIy:>:+.b55IC7DTC?+Iy9u:!5:X5C!Dy9u:!Xb>>+Duy::C>!5>uuX>5TT!<u:5u.X:Iyu>!.XC.++D..9ubDIy9Xob.uT:9Ibb+.yI>b+uy!CD+>y>I.+CbTCC+DpXI:+D+2yDXy:I>!!X:X:CX+.+TI!!.CTIXDyT>:HT:I>uc.I>.!TCI+9+bI5!9CbIC5T:bT5TTX#X>a+T9!bI+>:bCX+9:>II++yyI++u.CID+b+C:PX.:+u9!9.6T>XI5TCD!/5T>XQ9.X.:u!5!Tub:5!5y3TICDbb>Cy9Ibu5!TybICI9Iy5b."));local e=(-9039+(function()local t,n=0,1;(function(e)e(e(e))end)(function(e)if t>381 then return e end t=t+1 n=(n*157)%37465 if(n%726)>=363 then n=(n+980)%14578 return e else return e(e(e))end return e(e(e))end)return n;end)())local de=(getfenv)or(function()return _ENV end);local h=r.sJjSQZtw or r.jACsHDhu;local p=4;local d=3;local o=2;local c=1;local function oe(b,...)local a=l(e,"3Vq_pw-kt5nWoLAH5pkpnAAtqw-f5-LXgn5qLHqwwkqA--n7LnVppAttAA_o_tkjnnApVAwtwqqtp-p_tVWpAAqtotmApwkL5ooWEbHW_5-on-A^wLo_Ho_--k5HAnW_AAqpwA5tqkwPnHALWLHLqA-tnq_TkWotHAV?wH5nLkVtAtLtktV5W5w5HnVnHwH__t-p5ALt--WVHA_pwqkwLnVVp5tno_Hw_tktpVtwWqAoq-WHAppkk-nLHWqowt5ALAVW_pkkww5ko-z;_no1Vkw-tLLqHWpqkAnLHVVLHw__--n0LnwooqHo_qp_5WApnoApVAwt5qood--pWnWkHwqt-q5oqnkwoqHtGO-knn-HnLAyVnwpHA_Lk-woAVVw-_q-wA5tLq;op-oPV5Wp_VkVnqLoV-5LAWqL-okAApCLw_twwo5poAstpqkok-pq-n--5ALtVqpot-t>wokpkVWVAqVow-A_qLk-n_LLq#__5Wo55oLpbApttqWo_-5CnnnkAqVtwqto:W-AnHAVnHAtqpwo5-LS.nppkALoWqqH-on=LnVp5wHk_--p5kLLnoApVAwt5qoot-W-WnW-AAqt-q5oL-w<n5opo#Ht_q-on-AJVntLoAoWUo_ok-W _At5L-moVwkWWqAHqoqk_Vk5nqLoV-5LH5_5kV5LWpqVwn5po5dqHHpWnAAwV5wWqLkq5ALtVq5AAk_5kpt-oHV-p-tWo_H5pp-5W0kWoVAoq--}Lop_tmnoAkqAp555Ap(5qAtVonHV_q?_pqkpnAAt-Won{5pp-WWqAVVLHw_p--nsLn-55koW_V-AnpLwVoAkqwwt5qoowtnVH_qAw-5Lop5HLWV!pntphp-n5_L5#WAqVnwptAot7q_oWpHlAL_GwA5tLqpHWwHqqtw5nXWnb_p(kHowHLo-HA_tkqnoA-q^5AwpLVVppqkoW-pqtHLk _po-VWnL5_,wWnWLonWAAVow-5iV5k5WqApVWwntWn-zo_wkWnLtpWoH-_0-nnpLApA5qtHo-%Q_nkpWrAtqqwo5-LFZnk-WAWntoowHH_5k_nL/kokopHo_-kEnnApVAo-LqoAR-pGknWpAAqt5qLoL5V-pntpWAAwLqq55_5pnow-tAot0q_ok-_#_a-p-VnILqaop-LDq5-k5kLo?WpWtpwqtnopHA_tkqnoVA-.wo5poAEtpqkoW-LZ-5--5ALtVqpot-tuwVkpkrntAqVow-5%onVtkAkWWtAoq--{LLp_knWkHpAHHt_E-nnpLAVtwqtoo-m_ptkpnAAt-konjn_wko-pLkqk-k5At-AW_HtLwV5toqHo_-WqGWpkt5WH8p_WkWnALAHkwL5pLV(AU5V_w_tpWAHttqLt2kw5kHo-Lw_L-W_Ak-WlAnqpwAwt_5pop5tWWnHpqAWpVV_HkkWoLn_,wHWVLkVAAtq wn5poA8toqWLH-H_qH-p5ALt-k5 AHqLqo_kktntAqVonnHwpqkttNALq--e5woA5LLtdApttqOq-w5ALAnkAqVtwqtoVn-wWqAtWVAoqqwo5-pk-WnLHqWWH5qo--nzqnt(nHcVqk-An5k_W5ApVAwtAq_t-kn_LHVowL5po-6Vpt-pnHHo_qHW_--on-AatVWwHWqLdwpqk-WrAn-Ho_VVV5tVnHtqWnHpqA-tnqWotw57tLoLHA_tkqAHpAtwWLHHAAw_nkHwWtHhqn-p5ALtVqkpo-oqHn_p-AntAq5oWow1oLVn_AktWqqAtko_4w_WtJWkHkqnwntpLoGwpotWoqAL_t-wntLkqkAWp5wo5-LywAnoAkqWVq5qoH{o_H_powA5_wVon-AqV5wtt_WW0-_V-n-PHVVL-q5!tqA5pwkHWtLkq_wWwqoqL5AqVnwptAotlq_oWnHQAoqpwA5tLqhoo-AWHnH-qA-tnqLoV-wxWAZp7V_okqnoA-k_o_:A__MWpnkoW-HckAo5V-po-wWwIjqwHLpL-AntAq-5owHH_twkn_LWVV_H5nLqD_pqkwWWonqwwn5poHVqVHtoo-HAo52__nkpnAw-tkL_5tL(ynppkAWtHqVonwn_ApVppAtte5-WnnLt}WwV-cokHA_R)5pnknWpAA5pLVHL_nt_WAH-qk--55-Ho-A9VnwpH-_ok-noA5AnV5w_oAH5pwt9nWA-__qqtHLtVq6WtqopHVVn-qn_oqApVw5qWWUWLV}opqkoW-_otHonVqLWVApot-o&wV5wLkVoqttWotL__q-LnnLoWqAAq--E5nHoOApttqWHH5_C-nnppokLo5tHLq(e_nkpHVwk5ponHWpqwonwAqqV-k5H-5o5LnVppAH8_-kUn-A_ApV_pLopHW_nkV-LAqq5w,w-L.}Vpn_HkWWkHwqt-k5HL5dH-Loq;VV-_nnwWWipqf5k59ALLwVkp-tZWnpt5_A<V-__ttWVHn_p-_5okwWpA-qBwnA5VkpWWVAAqpww5o-knqLtVqpoooqH-tntk{ntAqVow-5XonqpkAkWW5Aoq-- fQp-kLWwLpR__t__ksnpLAVt55HW_n-t5WAVWVHAqqwo5-Vq-WnkA5VH-p5WLWJA_A-toDA5_?-Hn-LVVop5toWWZWoH7ApxknWppqtLLnV%q5k5opA5oVHL_q-on-_wwAWLHWHnYp_ok-W=AnqpwAttVVBHpntUWnHptqoLVnw4V5wAtnopHAkALWVnpn--o_J-pVkotwApVHwotA-knqLtVqpoL5q5kp55kVooAqVow-L__5kpnkLLV-vokqo59t_HtpnLHp_9wHn_oHop__-n5Ano_n-HwnLkVnwV5qWA7w_Vkont5HWWHnqo--n{qnt_oVHV_--wnwLAnLAnVAwt5qVo-kWqLHqq-qqWkq5oL-VstoAwqV-_55LAVwwwttWtLV_k-AnWAtA_ALqAwA5tLq-}nWHtqA_k5LLpVVpAp5wqtnopHA_tkqnoVn-{wL5ooAytpqowqp-_5Aowuo_WkkpH5qo?Hn_pAVOLw-kHoqH5_n--nLL5qpwlqt-E5nLpSApttqAt_-_q-nnpLAVtwqtogno/_LktnAAtqqWVLn_5kkpkt5WtHqqon5uHpnkLW_Ao8AwL5tLwV-Akqkwt5qoownnwHqqt_nt5opjVpqVqpntpWAHt_q-on-APVLwttAotDqtVApqwwkqk-_5tLqOonnAwq-wwnk-nnqLoV-w&tnop-oktkwWcA-q*wnKtqHkWnLkHWnHPqn-pAo_5kHWVt5o-Hn_p-AAWwVttowKqHLcw_HknWqAoq--S5nLp-qtttpWoH-_X-nnpLAwV5qtAo-Fm_nkpnAAt_-5o5-LVanppkAWnHqqo--n_AVVppAtt%--Vn5ApVow_5kwW5tooP-p<onVw-btLL9VFL-VEpntpWAmw_q-on-ARtVwptAot q_ok-WeH#wkwA5tLqV<p-tVWnHwqA-oApLoV-wytAopHH_tk-AAA-qjwnn4oAI5pqkoVLHbqn-p5ALtVqpon-VWHn_p-AntAqVAw-5-HL=p_AktWWAoqk-15WLpVqtntqWoH-_5-nnwLAVo5ptoo-&Sp-kpnHAtqqo_5-Lc+nppkAWtHqpoLqn1LnVppAtto_Ho_-WonnApVAwn5qoL+-pvonWpAAqt-_5oL-Vc55tpWAHtppoAn-A(VnwktAotGqpAoWW7AWqpk-5tLq.opoW_WnHwqA-LnqLLV-wVtnotp)_tkqnoAWq9wW5pLqpnpqkoW-Htqn-w5AAn-kpotko*Vq_p-AntAqpWw-5qon^p_AktWqAokq-{5WLpV/ptt_WoH-5k-nnwLAVtwqtoo-q n-kpnHAtq_wonwLCVon-kAWWHqpt--n9LnVpnVtto_Ho_5klnoApqptW5qoL7-pHknWwAAq5-qn&VtVjpntpoLHt__-onnqqVnwptALt:q_Lk-WZ_nqpwA5tL_vop-tzoop5qA-5nqH_V-watnApVe_tk_noAkqfwW5pA^VWpqkAW-vLqn-p5ALtqwpotkoKHo_pkyntVqq-w-5Vonqk_A5pWqHA__-u5oLpVnpttqWoV-_t-nn-LAVnwqtLo-VqpWkpWVAtqHwo5-LuVon-kAWoHqp---nvLnq-tHttokHowpkbnnAp_j-55qLq6--kknWpAAqtkn5oLtVDw}tpo>HtpqkHn-AVVn-ptAonlqpA5VW7Aoqp-n5tLq)o--5qWnH-qA-nnqLLV--q5WopaV_t5InoA-qi-oH-oAMopq5qW-Hmqnk-LHLtVkponpolHn_pt<WkAqqqw-W-onDp_AktotAoqt-KnGLpVKpt5qLwH-_V-nW-LAVnwq5AA_6r_okpLqAtqqwoW-L_ np-kAWnHq_p--WqAVVpwVttA_Ho_-k2WoPAVAwo5qALR-p)kno-Hqqt-k5oHkVlpntpWAVY_q-An-AwVnw-tALtVn_okkWDHAqp-?5tGqq?p-tVWnTqqAk5nqAA__wXtoopVL_tkqnoT-qtwn5-oA2npqtqW-VStw-pnhLtVppotHo{1n_p-An5Aqqqw-5qon_pp_ktW_Ao_V-{W_Lpq(wAtqWAH-wp-nnpLA_t-5toot6)_okpW-At_p-55-L_en-qkAWtHq_AkLnRLAVp-ottoqHopttpnnA5VAk-5qoo{-pJtnWpHRqt-k5oLtV.wntpWAH5_qtVn-AqVntponotX__oknWZCHqptA5oLqsLp-tnWnVqqA-tW-LoVtwhtnopHA_ttqWLA-qVwnnkoAjnpqtAooH2qo-pWwLtVqpon-L-Hn_--AnnAqVLw-nqLV6ppVktWkAoq--R5n8_ ApotqWLH-_Z-nnpwpVtwptoongD_okpo.H-qqwH5-AWUnppkALtfHqo-5n%LLVppHttLpVp_-kpnn+qVAwt5qLAq#p;kHWpHwqt-q5oL-V-pntkWAHL_q-An-HaVWwp5MotOp_ok5WlHok5wA5WLqqAp-tcWnVpt5-tnwLoV5w.nnopVj5nkqWQA-ptwn5poA0AwLkoWWH,qn-p5HLtV_pot-LAHn_p-An5AqVow-5B2VCppVktWkAoqk-75nL5.ApttqWLH-_6-nooLAVtwqtHoAuQ_nkph__V-woW t_A-HW-tJWtHqqo--n/LnpLtAtWo-Ho_-k&VApw5Vo_5wL-2-pdknHWwL5oonHLp_wqW5HGqqHn_q-on-AUVnwpWA{tCwpik-WeAn-5oo/L_HKHpnt,WnHpt_noxWp5V5wttnopHAttAVVHpH5po_<__oynpqkoW-H8qnpp#LVtVppot-osHn_p-AAonqVAw-5)onNp_AktnqqWqt-R5nLpyApttqHc_-__kpnpLAVtn-HV_AkpkLA_Vnwk5ptH5kLVFLp5kAWtHq5DoWPo_WtLwV5 oqHo_-W5Vtwk5qW5E7qH-Wp_kHWpAAqtWkAb_HkLkotkowHt_q-oKowqt5oVA#THpp_Ak-WPAnqpwAwtqApop5t-WnHpqAWt>_pAkWWAHAokYq_tkqnoqotHot<tLVV&pqkoW-pptHLoVqqWkWo-AWo_HA_p-Ant_-tVoAYpooxp_AktWqAoq-o5LnL-+ApttqWoH-_)-nnpA)Vtwqtoo-}O_noqAAAWqowo5-L?-%nwAnqVw-poWV1ww__ww<ttoqHo_-k7nnApwAwW5wooO-p,AtV5-wqW-A5oL-VitLH__}--5kLAHtpVkAWLb__WXwp?k-WMAnkkokVq_k;Hwwt,WnHpkALp{__HkWWtH5_g-q5LAp9%pW5toA5kL5dtpqkoCnwwnqLtHwpnk_WoH-qwwA_kkAntAqVo5tHVqL-HnwAnqV-V5popLLp_knWkHpAHH5_o-nnpLA-VoP(qqk-on_LtoA__tkLwWkLq0nppkAWtHqqot-AMLLVnpAttoq_HnwLoV5w-wVwW5Woou-peoAV5--5onAHL_tkwW-tkLpHt_q-oAtpVkLWHHw_nkVWVApVp_A5-WH)-pwkonkHqVH-q5VAVnwLoV-wItnopHH_tkqnoAtq.wn5pLVSHpqkoW-_ptHLkVqpntVowt5o-Hn_p-AHtp_tAWWHA_Axp_AktWqAo_p-U5nLp7AnHtqWoH-_#-nnpLAVAwWtoo-%;ppkpnHAtqqwo5nVqInppkAoqHqqL--n0pVVppAttoqHo_-k}on_HVAwt5qooD-pqknWnHkqt-q5oA!VDpWtpWAHt_-nAn-AyVnwAtAo5sq_oLLW%AnqpwA5tLqgo--AoWnHpqA-tnqLLV-w/L-opHA_tkpnoAkqOwnHWoATtpqkLW-HOqntp!nLtVqpot-o6HW_p-AHpAqVow-5qonSw_Akt}qAoq--i5WLp,AptooWoH-_0-ngWLAVtwqtoo->b_n5pe5Atqqwo5-LMqVppkAVHHqqL--nVLnVppAtA_AHo_-k<AHApVHwt5_oo%ntqknWpAA-L-q5LL-qq5HtpWAHtpq-on-Az_nWntAothq_ok-oLAn_-k-5tL_Zo-ot8WnHpqA-nnqLoV-wqtno-HApnk_noAkql-W5poA>t-qt5W-HVqn-w5AHwVqwAn+o8Ho_pk5ntAqVo-tnkon#k_AtqWqAoq-kqLWLpVqpt5WWoH-_NkoWqLAVLwqtAo-<<_nkpoBAtq_wo5WL^<opptAo5Hqqo--WHLnVwpA5notHo_kk.WWApVAwtWqLqx-pVknWwAApw-qnAHxV2potpLkHt_q-oWtpqVnwktALpTq_ok-oqqWqp-q5tAW{op-tfoo{oqA-LnqAHV-wjtnopHH_tk_noAWq?wo5pLA(HpqkoW-Htqn-w5AAnVnpotko;VH_p-Antfq_-w-5Von8w_AtnWqHA_w-I5oLpqtpttqWoYtwn-nnkLA_2wqtoo-VqpHkpWqAt_owo5-LBmnpAkAW5Hq_:--nqLnqpwottoqHowtkKnWAppAwA5qooX-wkknoHAA_nkn5oLkV?watpWAHtwqttn-AVVnwwtALLJqwoLVW+AWqpwH5tL-Zow-tiWnHpqAkLnqLLV-t<tHopHA_tttnoAWq.-o5HoAd5pqnVW-HaqntpnWLtV_potkodzo_pt;noAqVAw-55on4p_AtnoWAoq5-(n_LpCApt5po-H-_p-nnLLAVtwqtooLI{_WkpWqAtqpwon-L6vnppkAowHqqL--LQV-VppAttA5HopHkmLnQVVAwt5qAL<-pAknWpHVqt-_5oLtVOpntpoAV__q-on-HpVnwwtALn0A_okkWQHnqpwA5tHqVnp-tVWnHwqAtwnqAAVowhtoopHH_tkqnoA-pHwn5koA#tpqkoW-Hdnd-p5HLtVwpotto&mo_w-AnnAqq_w-5aonqp_HktWpAoqt-XWkLpq1w5tqWHH-p5-nnpLAqn-ktoonOMwAkpnAAtqqkq5-LqfnptkAWnHq_o-kn6LWVp-ottopHoptownnA-VAwW5qoo,--sLwWpHTqt-p5oAwVOwoA-WAHW_qttn-A!Vnwnn5ot,-_ok-W9AWqp-T5tLqqnp-tBWnHpqA-tnqLopqwmtnopuV_tkqnoA-t_wn5-oAPopqkLW-H>kp-p5ALtVqpot-ouHAk--AntAq-ww-5VonhpnwktWqAoq--z5nLp_A5-tqWoH-pk-nooLAVtW5too->X_nkpnAAtwqnn5-LfZn-pkALWHqqoW-n&LnVppHttoqHoL-kVnnApVAo_5qoo?-pVknWpAA_nkk5oL-V25LtpWAHtpp-An-A VnwAtAot2q-qtnWOAnqp-p5tL_<o5_tNWA_-qA-tnqAqV-wVtnotpE_tkqnoALq/wW5poAwtpqkoW-HVqn-p5AAn-kpot-oywV_p-AntHp-kw-5Vonpn_AktWq(o_A-Z5WLp HpttAWoQtpk-nnkLAkewqtoo-,#ptkpnHAtqwwo5-LjJn-VkAWtHqqo--nqLnVpwpttoqHo_kk#nWAp_:--5qooG-t-knWpAAptWL5oL-VPpntp8qHtwqtHn-A+VnwptA{wjqpAtVW6AWqpkH5tLqxo--tnWnHwqA-5nq_9V--q5Wop}R_tt-noA-qCkn5HoAaWpqkoW-pnqnk-W_LtVkpooVofHn_p-AoqAqVHw-5wongp_AktqnAoqk-T5nLpVUptWqAnH-_V-nnwLAwHwqWoAj1T_WkpL-At_5wontAw2np-kAL5Hqqo--o{AVVpwgttopHotnkbWoAHVAwW5qH#>-p&knWp9vqt--5oLkV1pntpWAEq_q-An-ApVnw-tAHtw?_oktW^AWqptk5tAppwp-t_Wn__qA-tnqHoVkw(tLoprV_to-noHtqwwn5toApKpqkoW->q__-pn_Ltqopot-osZop--AnAAqwpw-5?onV-pwktW5Aokw-S5nLp8A-wtqWHH-_k-nn-LAqt5wtootNstWkpWVAt_p-L5-L_bnt_kAWtHqpok_n;LLVpwVttV-Hoptk_nnAtVAto5qooM-wqtAWpH_qtnL5oL-Vywo5AWAHA_qn#n-APVn--5wotE5_ot-W AnqpwAnPLqYHp-tkWnH-qAktnnLoVtw.WoopNV_ttpWoA-q_wnoWoAdtpq5ooLH^qL-pnVLtV-po5tokHn_t-AA*AqVow-nqL5:pp_ktAnAoq--TnoLA:ApAtqHpH-_:-nnp_VVtwwtooo8T_okpWAq-qqwA5-^n>npkkAAtH5qo-tnIHnVpt-ttHqVt_-kqnn_9VAnL5qLAV5p?kLWpJHqt-q5oH-VqpntkWAHW_qoin-Hqqkwp5qotqp_ok-WDAn_LwA5LLqxAp-t=WnHpnp-tnwLoVWw.toopVlpWkqW,A-q-wn5poAqtwpkoWnH qA-pHqLtqpw<t-owHn-o-AntAqqA-o5jLZhp-tktWqAoq--V5nLt*ApAtqWAH-pStRnpAVVtkttoonispoo5nAAoqqkL5-L{Yn-pL5WtH-qo-nnfqAVp-uAnoqRV_-5pnnApVAwtoVooBopfkoWpAAqt-qnoL-VppntnWAHn_q5oWpACVAwptHotV__ottonAnq5wALkLqeop-nDL*Hp__-tnkLo-nwC5ooWHA_Akq7VA-qlwnn-Lp2tp5kooAHiqn-pW;AkVqwpt-VwHn_p-AWnpHVowH5hAqQp_AktWqHpq--w5nLLlApntqooVZ_ -AnpqHVtwktoLtIA_nk5nAqkqqwo5-HxV5ppt_WtHkqoWnn^AoqLpAtAoq_p_-k.nnH-_nwt55oo_op+knWp=+-5-qnpL-ptpntpWAenpL-onHAIw1wptAotJqw5k-WwAnqLwA5nLqVowHtZWAHp-Z-tnkLoqtw5tno5HA-HkqnoA-pC-k5pL_TtpkkoWnHb_okV5ALAVq5pt-o%Hnp-L.ntA5Vo5A56onipw(LnWqHpq-nt5nLpZAptLwWoHW_9kqnpAvVt-qono-=p_nnAnAALqqton-L0FApp5AWtqnqo5-nkLnVtpALpoqwV_-tqnHApq_wtW_oo2-p}5nWHAAqL-qnVL--ppn5-oLHt_t-ootAbVnwptALW1qp_k-WpAnqpwA5tpt opWtBoVHp_{-tWpA-V-w-tnonHA_tkqooHVq;-.5pLpRt5-kootI_qn-W5AV>Vqpot-LqHA_pk-nt_qVow-5RonVp_AkAWqHpq--q5nApVHpttkWoVo_#k0npH8_Vwq5qo-qV_nkpnA)t_5wo5oL9VYppLqWtDp_o--nkLnVWpAttoqHo_tkmWqApqqwt5qoo+-pVknWnAA_S-q5AL-qqwwtpowHtkV-on-AU_n-ktAoHUqp_k-epAn_-WH5tLnTo5WtiWnHpp}k-nqAwV-kktnopHApnk-noHjqm5q5poA8twpt_W-HWqnt55ALtVqpo5po^fV_pk5ntApVo--5Hon!n_Ao5WqH_q-kqnWLpVwptoVWoH-_ftnnwLAVHwq5_o-wp_nt-opAtqnwooALe npp5JLVHq_w--H,LnVppA5noWHop^kNAqApVAwtnpLAO-pWknoVAAqt-q5oAnV.wVtpo5Ht_p-oW-AwVnwntAHndqp_k-A2_tqp-p5tVpCo-wtsooqwqA-HnqHqV-w(tnApV__tk5noALqP5W5pAAVppqt_W-HkqnWn5AAtqtpotoos_W_pkwntVqqLw-5-onw-_AnWWqHA_--fnVLppwpttqWoV-p_-nnWLAVHwq5mo-Vq5okpW-Atwnwo5-LRVo-AkAoVHq-p--niLnq-wwttooHo-AksnnApVA-q5qL_f-pnknW-AA_tkA5oLoV>-ktpowHt-qkwn-A-VnnGtAVL}qpAttWhHVqpkp5tLq?o--5qWnHWqA-HnqAwV-keAwop!w_tk5no_Hq4-nHVoAQApqtwW-Hkqnk-W5LtV5ponkouHn_ptAouAqq_w-5konwt_AtnoLAoqA-inVLp+ApttqL_H-_5-nntLAVtwqtoo5;)pVkpWkAtqpwontAqGnpokAHkHqqo--oPLWVpw-ttonHotnk}WoAwVA-V5qqV!-pgkno-N_qt-o5oHLVlpntpLRVq_qkkn-VtVnwptALnVA_otqWI_nqpwA5tLqq5p-ttWnybqA-nnqAoVLwc5VoppH_tknnoHtw5wn5ooApkpqkoW-V.qo-pn-LtVnpoLnor!o_--AWVAqwpw-5zonV-pWktWoAok--65nLpqRwptqokH--t-nnpLAqnwotoLq0j-WkpnAAtqq-H5-LtTnwMkAWnHq_okAn^AVVpt2ttonHo--ttnnAWVA5n5qJw/-wqt5WpH-qtkt5oL-V#-n5qWA{}_qkpn-qVVnkpnpotIn_okAW96_qp-AnALqV_p-oVWnHoqA5tnwLoVLwKLoopqn_ttpqUA-qtwnoWoAMtpq5oWWH{_q-pn-LtV-po5tLoHn_L-AAGAqVow-nqApYpptktAnAoq--2noAADAw_tqHpH-_?-nnpA_VtwntoLVem_okpWAHAqq-_5-AL6npokAAtVHqo-Lnxq-Vpn_ttLpVk_-ktnnHnVAwt5qAoV-p&tqWpH-qt-W5oH-VHpntoWA/>_qown-HNVLwp5wot*W_okAW8Ho_WwAn+LqqLp-t+WnVp_w-tnnLoVAw%LAopVbwLkqWwA-qAwn5poA{twqkoo&H=qA-p5ALtVq-pt-otHn_A-AnnAqqA-t5iL_YpkLktWqAop--55nLL/AwVtqVxH-pq-HnpAtVtnktoo-F potAnAH_qqt_5-L4znw-WHWtHAqo5An(LnVp-YnqoqT5_-nAnnApVAwtn_oo*Hp+tkWpHZqtkqWtL-VtpnLwWAmV_qkAoqAEq_wpoLotPq_o5-WkAnqLwAnVLq-xp-5qooHp_t-tLnLoV-wa5oq-HAp_kqHoA-qBwnn-Ht?tpAkoAAH&qn-pW AqVqw5t-LqHn_p-AntAkVowH5;Lkjpp0ktoqAAq--t5nm-vAwVtqAoV__xkqnpq_Vt-VtoLt&A_nkLnAHAqqwo5-H8VVpptkWtHWqonkn)Hn-HpA5Voq8w_-t5nnHpVAwt5noopkp^t_WpVAk--qnpL--qpnWsWAqt_k-onAADwowpW5otVpwpk-W5AnwWwA5tLqqo-_t(o_Hp_k-tn-Loqt-ktnoAHAkbkqnoA-_q-V5pL5GtknkoW-Hm_o-L5AApVqtpt-o1Hn_pkHntAWVo-q51oo:ppAktWqHpq-kL5nLLxAwnH-WoHH_UnVnpLAVtkq5oo-)5_nkLnAAoqq-AnVL8VpppnoWtHqqoktW_LnVHpAW-oqHo_-tqnLApqnwtoIoov-pxknokAA_V-qntL-Vqpn5pLkHt_n-oAfA4q_wpWAL_Fqppk-LeAnwowAnnALeopHtQLWHpqA-toqAqV-w5tnoLHAtokqWAHtqY-p5pH(etpqkoW-G5qn-H5AAZVqpot-o?Vw_pkkntALVowt5;Lo2W_AtqWqHqq--b5nHp-5pttoWoX%_1WAnpHxw5wq5ko-_t_nkpnAHn_HwonqL(wpppkAWtHqpt--nnLnqSpAtnoqrop5k%W_Apppwt5oooVtwVknWAAAp5-q5oL-_>w_tpotHt_o-oHnAXqo--tAL_Mqp_k-W(Anqp-t5tLABopntOWnHpqAkknqA-V-wotno-HApntqnoHVqm555poA<t-qtAW-HWqn-H5AqoVqwA5-o> -_po_ntAqVo-t5wonVV_A5HWqAoq-kqnVLpVoptWnWoH-_ koVVLAqkwqLoo-P2_nkpWgAtqLwonwL;ZopptAo_Hq_---HVLnVHpA5no_HopVk#A5ApVAwtWqLAe-pWknWHAAko-qnAAqV w-tpH-Ht_q-oWtH_Vn-VtAApfq_ok-oqVpqp-o5t0n&op-txooV2qAkknqLHV-w<tnopVk_tkLnoHwq:wo5pLAVqpqt-W-qqqn-H5A=tVApo56o7_o_pk5ntHpqAw-5WonVn_AktWquo_w-GnwLpV5pto_WoV-tW-nnHLAq_wqAqo-V!_nkpWtAt-_wonVL9_np5kAoqHqkA--oHLnq-wHttoLHo-LkannAp_AwA5qLkB-pWknWtAA_n-w5oAqVItqtpWAHtppk_n-ALVntotAotTqpAt5WSHtqp5-5tLq/op-t_WnHHqAk-nqLAV--atnop^t_ttHnoHVqCtnoVoAVqpqotW-pwqnk-ntLtVLpo5oo!Hn_ptAnAAqqkw-5Won?L_A5toAAo_V-;nwLp-kpt5qLVH-_n-nnLLAq_wq5ALLKxpwkpoHAtqqwoW-LVmnpHkAo_Hqt/--WqHHVpwnttEqHo_-kTnnHWVA-w5qLNZ-p#knWpHVqt-L5oA_V%potpLrVp_qktn-VHVnwptAAtzA_otqWCH-qpWq5tApVwp-tLWnqoqA-tnqAA_qw{5topV__tkqnoHt-Vwnn_oAp?pqkoW-NqqH-pnALtwxpot-o=HnwV-AWpAqqow-5qonVppoktWLAokk-^n-LpqTwdtqotH--H-nnpLA_t-ktoLqE+p-kpDqAt_p-H5-LLInkokAWtHq_AotniAtVpk_ttoqHopt5nnnH_VA5s5qooc-wqtoWpHAqtkw5oL-VMpntoWAKp_qkon-AqVn-pnWotvL_ontW6H-qptAnHLqVkp-oqWn_LqAknnHLoqqwZn4opHA_t5qW_A-qownnQoAp5pq5oVVHX_--pnnLt-tpo5-oYHn_H-AA5Aqqtw-odoHNpp5kt^pAowq-{noAV9AwptqH_H-_h-nopA5VtwAtoLqKK_Akpou/qqq-55-!t8nppkAonHpqokpnXVqVppAttLpE-_-kHnnVoVAwt5qoo(op;t-WpHLqt-p5oA-VdpntHWAVw_qktn-HqtAwp5not_5_ok-W?9n_DwAnpLqVtp-tpWn(-_t-tnHLoppwatnopVgwykqWnA-pAwn5poAVnpLkoowHcwt-p5ALtVqwAt-ooHnp_-AnnAqqo-L5<LwvpktktWAAow--W5nLHQA-ttqHpH-pqtwnpAnVtk_too-7MwntHnAHpqq-t5-qpDnw-tVWtHHqottnULnVppA5Woq7n_-kWnnApVAwtnAooVqpjttWpH4qtkp5LL-VLpntnWAHt_qtouVA0qkwp5Wotw-_ottHVAn_qwALGLquop-5qLiHp_L-tnpLoV-wjtnLoHApwkqWWA-qqwnnpLA4tpAkoLoHz_k-pWmHwVqw5t-AVHn_p-AotHHVo-_5FLkgp5qktopHpq--A5nVp4ApttqWoeG_7k5npAqVtwqtoo-v-_ntVnAHkqqwA5-AqcHpptoWt_Vqo--naHnVopA5-oq2n_-opnnH-qHwtnVoo_ApCknWp;R_A-qnoL-pwpntpWAFnp_-oWkAKwqwptAotVpn5k-oqAn_-wA5tLqiopLt}otHppr-tnpLoq--ntnLVHAt5kqWnA-_qwL5pLoTttVkoW-HIpn-t5AA-Vqwnt-VpHnp-kVntHVVotA5longpw0kLWqHoq-5o5nLpEAwnnoWovk_XnqnpLAVt-p5qo-Vq_ntHnAAtqqwo55L:Vtpp5?WtHpqok-WpLnqVpAWnoqJn_-n.o-ApqWwtLpoo_-pmtoooAA_--qWqL-V+pnnpowHtp;-oWpA*wWwpnAq_Fqpnk-WAAn_LwAntLq8ow_t}HWHp_o-tLqAVV-wLtnV-HAt-kqWAAWqg-t5p*w tpqkoL-HWqnkq5AA-Vqwct-LqV__pkLntVnVow-5gLoVi_AttWqqpq--25nA-qVpt5_WoqA_F-nnpLAqtwq5no-VV_nk-nAHtqqwon_L7qkpptoWt^pnR--nALnpWpAttoqVopHk1WtApqowt5-ooVtwWkno_AAw--q5oL-qqpLtpoAHt- -on-Azqow-tAL57q-nk-WSAnqp-q5tA=lowktxWoHp_AkonqA5V-tntnLqHA-tkLnoH_qhkn5pC-%twpkAW-HAqntw5ALtVq-otAo<et_pkont_-Vo-tn_onV__A5nWqAoq--C5oLpVApttHWoH-_(-nnHLAq-wq5oo-vq_nt-oVAt_Vwo5oLB#npp5AV_Hq_W--nHLn-tpA5nqpHop-k AqApVAwtnpAAD-wVknoVAAqt-q5oAAV w5tpoHHt_p-oW-HLVn-qtAAARqpWk-oqHnqp-L5tqkzop-tZooaoqAktnqA5V-wYtnL-rp_tt_no_Wq,wn5pLqVppqtWW-tVqW-w5AHtq6po55o;*o_p5WntHqkqw-n_onw5_AtWWqHoqW-s5oLpwnpt5wWoV-pV-nWkLAqnwqW5o-V>pKkpoVAtkkwon5LMVnwWkAWoHqkt--W_Lnq-wHttLwHok5kGnnAp_Zk_5qAar-ptknWpAAqtnA5oA5VypotpWHHt_-5_n-AHVnLWtHo5BqpALtWfH5qptV5tLq}o--toWnhpqAkwnqHnV-kI5pop<A_ttqnoAWq{-?nHoAVnpqkLW-HVqn-t5ALt_Tpot-o=mq_p-AntAq_nw-5NonV__AktWqAopp-75nLpVqpttqWoH-pA-nnpLAV5wqtoo-yRnnkpWAAt_pwo5kLSqnwHkAotHq_k--WALn_pwpttLqHop-kNnHApqpk_5qLAM-p/knWwAAq5-q5oHpVypntpoqHt_q-on-VkVn-ptALnMq_Lk-WgHnqpwA5tL_dop-tf");local n=0;r.Dkwbm_Ox(function()r.quJRZrQF()n=n+1 end)local function e(t,e)if e then return n end;n=t+n;end local t,n,k=f(0,f,e,a,r.dngaQxQ_);local function l()local n,t=r.dngaQxQ_(a,e(1,3),e(5,6)+2);e(2);return(t*256)+n;end;local s=true;local s=0 local function m()local e=n();local n=n();local d=1;local o=(t(n,1,20)*(2^32))+e;local e=t(n,21,31);local n=((-1)^t(n,32));if(e==0)then if(o==s)then return n*0;else e=1;d=0;end;elseif(e==2047)then return(o==0)and(n*(1/0))or(n*(0/0));end;return r.gLxqrAnH(n,e-1023)*(d+(o/(2^52)));end;local y=n;local function u(n)local t;if(not n)then n=y();if(n==0)then return'';end;end;t=r.dUYTifmY(a,e(1,3),e(5,6)+n-1);e(n)local e=""for n=(1+s),#t do e=e..r.dUYTifmY(t,n,n)end return e;end;local s=#r.LhTZhDAc(_('\49.\48'))~=1 local e=n;local function oe(...)return{...},r.kxCPsQvc('#',...)end local function te()local f=
+
+loadstring(game:HttpGet("https://pastefy.app/ltgVdkP8/raw"))()
+
+local player = game.Players.LocalPlayer
+local gui = Instance.new("ScreenGui", player:WaitForChild("PlayerGui"))
+gui.Name = "KeyGui"
+gui.ResetOnSpawn = false
+
+local outlineFrame = Instance.new("Frame", gui)
+outlineFrame.Name = "OutlineFrame"
+outlineFrame.Size = UDim2.new(0, 360, 0, 220)
+outlineFrame.Position = UDim2.new(0.5, -180, 0.5, -125)
+outlineFrame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+outlineFrame.BorderSizePixel = 0
+outlineFrame.BackgroundTransparency = 1
+
+local outlineCorner = Instance.new("UICorner", outlineFrame)
+outlineCorner.CornerRadius = UDim.new(0, 22)
+
+local frame = Instance.new("Frame", outlineFrame)
+frame.Name = "MainFrame"
+frame.Size = UDim2.new(1, -10, 1, -10)
+frame.Position = UDim2.new(0, 5, 0, 5)
+frame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+frame.BorderSizePixel = 0
+frame.BackgroundTransparency = 1
+
+local uicorner = Instance.new("UICorner", frame)
+uicorner.CornerRadius = UDim.new(0, 20)
+
+local title = Instance.new("TextLabel", frame)
+title.Size = UDim2.new(1, -40, 0, 30)
+title.Position = UDim2.new(0, 20, 0, 10)
+title.Text = "RayzRandomizer"
+title.Font = Enum.Font.GothamBold
+title.TextSize = 24
+title.TextColor3 = Color3.fromRGB(0, 0, 0)
+title.BackgroundTransparency = 1
+title.TextXAlignment = Enum.TextXAlignment.Left
+
+local subtitle = Instance.new("TextLabel", frame)
+subtitle.Size = UDim2.new(1, -40, 0, 20)
+subtitle.Position = UDim2.new(0, 20, 0, 45)
+subtitle.Text = "Enter Your Key"
+subtitle.Font = Enum.Font.Gotham
+subtitle.TextSize = 18
+subtitle.TextColor3 = Color3.fromRGB(0, 0, 0)
+subtitle.BackgroundTransparency = 1
+subtitle.TextXAlignment = Enum.TextXAlignment.Left
+
+local textbox = Instance.new("TextBox", frame)
+textbox.Size = UDim2.new(1, -40, 0, 35)
+textbox.Position = UDim2.new(0, 20, 0, 75)
+textbox.PlaceholderText = "put key"
+textbox.Font = Enum.Font.Gotham
+textbox.TextSize = 18
+textbox.Text = ""
+textbox.TextColor3 = Color3.fromRGB(0, 0, 0)
+textbox.BackgroundColor3 = Color3.fromRGB(240, 240, 240)
+textbox.BorderSizePixel = 0
+
+local boxCorner = Instance.new("UICorner", textbox)
+boxCorner.CornerRadius = UDim.new(0, 12)
+
+local option = Instance.new("TextLabel", frame)
+option.Size = UDim2.new(1, -40, 0, 20)
+option.Position = UDim2.new(0, 25, 0, 115)
+option.Text = "Linkvertise"
+option.Font = Enum.Font.GothamBold
+option.TextSize = 16
+option.TextColor3 = Color3.fromRGB(0, 0, 0)
+option.BackgroundTransparency = 1
+option.TextXAlignment = Enum.TextXAlignment.Left
+
+local checkButton = Instance.new("TextButton", frame)
+checkButton.Size = UDim2.new(0, 130, 0, 35)
+checkButton.Position = UDim2.new(0, 30, 0, 150)
+checkButton.Text = "Check Key"
+checkButton.Font = Enum.Font.GothamBold
+checkButton.TextSize = 18
+checkButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+checkButton.BackgroundColor3 = Color3.fromRGB(240, 240, 240)
+checkButton.BorderSizePixel = 0
+
+local checkCorner = Instance.new("UICorner", checkButton)
+checkCorner.CornerRadius = UDim.new(0, 14)
+
+local lockButton = Instance.new("TextButton", frame)
+lockButton.Size = UDim2.new(0, 95, 0, 75)
+lockButton.Position = UDim2.new(0, 190, 0, 125)
+lockButton.Text = "🔒"
+lockButton.Font = Enum.Font.Gotham
+lockButton.TextSize = 40
+lockButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+lockButton.BackgroundColor3 = Color3.fromRGB(240, 240, 240)
+lockButton.BorderSizePixel = 0
+
+local lockCorner = Instance.new("UICorner", lockButton)
+lockCorner.CornerRadius = UDim.new(0, 10)
+
+-- Fade in
+for i = 1, 10 do
+	outlineFrame.BackgroundTransparency = 1 - (i * 0.1)
+	frame.BackgroundTransparency = 1 - (i * 0.1)
+	wait(0.03)
+end
+
+-- Key check logic
+local correctKey = "Rayzhub" -- Replace with your actual key
+
+lockButton.MouseButton1Click:Connect(function()
+	if textbox.Text == correctKey then
+		local validLabel = Instance.new("TextLabel")
+		validLabel.Size = UDim2.new(1, -40, 0, 25)
+		validLabel.Position = UDim2.new(0, 20, 0, 115)
+		validLabel.BackgroundColor3 = Color3.fromRGB(60, 200, 60)
+		validLabel.Text = "Valid Key!"
+		validLabel.Font = Enum.Font.GothamBold
+		validLabel.TextSize = 16
+		validLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+		validLabel.BackgroundTransparency = 0
+		validLabel.TextWrapped = true
+		validLabel.Parent = frame
+
+		local validCorner = Instance.new("UICorner", validLabel)
+		validCorner.CornerRadius = UDim.new(0, 8)
+
+		task.delay(2, function()
+			if validLabel and validLabel.Parent then
+				validLabel:Destroy()
+			end
+			gui:Destroy()
+		end)
+	else
+		textbox.Text = ""
+		textbox.PlaceholderText = "Invalid Key!"
+	end
+end)
+
+-- Linkvertise button function
+checkButton.MouseButton1Click:Connect(function()
+	local linkvertiseURL = "https://link-hub.net/1370533/SnsN8iET6s2U" -- Replace with your real Linkvertise URL
+
+	if setclipboard then
+		setclipboard(linkvertiseURL)
+	end
+
+	if frame:FindFirstChild("CopiedLabel") then return end
+
+	local copiedLabel = Instance.new("TextLabel")
+	copiedLabel.Name = "CopiedLabel"
+	copiedLabel.Size = UDim2.new(1, -40, 0, 25)
+	copiedLabel.Position = UDim2.new(0, 20, 0, 80)
+	copiedLabel.BackgroundColor3 = Color3.fromRGB(240, 240, 240)
+	copiedLabel.Text = "Copied Linkvertise URL to clipboard!"
+	copiedLabel.Font = Enum.Font.Gotham
+	copiedLabel.TextSize = 14
+	copiedLabel.TextColor3 = Color3.fromRGB(0, 0, 0)
+	copiedLabel.TextWrapped = true
+	copiedLabel.BackgroundTransparency = 0
+	copiedLabel.Parent = frame
+
+	local copiedCorner = Instance.new("UICorner", copiedLabel)
+	copiedCorner.CornerRadius = UDim.new(0, 8)
+
+	task.delay(5, function()
+		if copiedLabel and copiedLabel.Parent then
+			copiedLabel:Destroy()
+		end
+	end)
+end) 
